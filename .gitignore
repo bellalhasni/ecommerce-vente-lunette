@@ -1,0 +1,15 @@
+# node_modules des deux parties
+
+client/node_modules/
+server/node_modules/
+
+# Fichiers sensibles
+
+client/.env
+server/.env
+
+# Autres
+
+.env
+.DS_Store
+*.log
